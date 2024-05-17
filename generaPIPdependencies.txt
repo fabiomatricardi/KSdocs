@@ -1,0 +1,1 @@
+.\python3117pipReady\python.exe -m pip install -U openai streamlit==1.34.0 sentence-transformers tiktoken
