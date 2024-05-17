@@ -29,3 +29,8 @@ git init
   https://github.com/fabiomatricardi/KSdocs
 ✓ Added remote https://github.com/fabiomatricardi/KSdocs.git
 
+git add .
+git status
+git commit -m "comment to commit"
+git branch -M main
+git push -u origin main 
